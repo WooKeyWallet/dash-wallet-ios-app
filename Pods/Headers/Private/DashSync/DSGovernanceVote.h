@@ -1,0 +1,1 @@
+../../../../../dashsync-iOS/DashSync/Models/DSGovernanceVote.h

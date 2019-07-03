@@ -1,0 +1,1 @@
+../../../../../dashsync-iOS/DashSync/Models/Derivation Paths/DSMasternodeHoldingsDerivationPath+Protected.h

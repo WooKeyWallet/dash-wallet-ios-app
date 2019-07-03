@@ -1,0 +1,1 @@
+../../../../../dashsync-iOS/DashSync/Models/Managers/Chain Managers/DSPeerManager+Protected.h

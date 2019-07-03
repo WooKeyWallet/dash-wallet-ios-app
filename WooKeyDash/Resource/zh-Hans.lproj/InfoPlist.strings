@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+*/
+
+CFBundleDisplayName = "Dash Wallet";
+NSCameraUsageDescription = "用于扫描二维码识别钱包地址";
+NSPhotoLibraryUsageDescription = "用于扫描二维码识别钱包地址";
+NSFaceIDUsageDescription = "用于助记词导出和交易授权";

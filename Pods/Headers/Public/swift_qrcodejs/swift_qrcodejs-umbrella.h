@@ -1,0 +1,1 @@
+../../../Target Support Files/swift_qrcodejs/swift_qrcodejs-umbrella.h

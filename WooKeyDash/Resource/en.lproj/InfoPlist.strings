@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+*/
+
+CFBundleDisplayName = "Dash Wallet";
+NSCameraUsageDescription = "For QR code scanning to recognize the wallet address";
+NSPhotoLibraryUsageDescription = "For QR code scanning to recognize the wallet address";
+NSFaceIDUsageDescription = "For Mnemonic Words exporting and transaction authorization";

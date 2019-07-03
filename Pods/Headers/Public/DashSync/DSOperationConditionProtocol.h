@@ -1,0 +1,1 @@
+../../../../../dashsync-iOS/DashSync/Libraries/AdvancedOperations/Conditions/DSOperationConditionProtocol.h

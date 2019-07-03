@@ -1,0 +1,59 @@
+PODS:
+  - ActiveLabel (1.1.0)
+  - Alamofire (4.8.2)
+  - bls-signatures-pod (0.2.9)
+  - DashSync (0.1.0):
+    - bls-signatures-pod (= 0.2.9)
+    - secp256k1_dash (= 0.1.2)
+  - EFQRCode (5.0.0):
+    - swift_qrcodejs (~> 1.1.1)
+  - IQKeyboardManagerSwift (6.3.0)
+  - Schedule (2.0.2)
+  - secp256k1_dash (0.1.2)
+  - SnapKit (5.0.0)
+  - SVProgressHUD (2.2.5)
+  - swift_qrcodejs (1.1.1)
+
+DEPENDENCIES:
+  - ActiveLabel
+  - Alamofire
+  - DashSync (from `../dashsync-iOS/`)
+  - EFQRCode
+  - IQKeyboardManagerSwift
+  - Schedule
+  - SnapKit
+  - SVProgressHUD
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ActiveLabel
+    - Alamofire
+    - bls-signatures-pod
+    - EFQRCode
+    - IQKeyboardManagerSwift
+    - Schedule
+    - secp256k1_dash
+    - SnapKit
+    - SVProgressHUD
+    - swift_qrcodejs
+
+EXTERNAL SOURCES:
+  DashSync:
+    :path: "../dashsync-iOS/"
+
+SPEC CHECKSUMS:
+  ActiveLabel: 5e3f4de79a1952d4604b845a0610d4776e4b82b3
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  bls-signatures-pod: 56adce76843f10f484ff996c33aee36cfd98ae5e
+  DashSync: 421125885841a5c20e8a2409718067acf9921f14
+  EFQRCode: 07437cfbce3a1e497397a4f3d766c980d8972608
+  IQKeyboardManagerSwift: a8228c257614af98743b4cd8584637025f36358f
+  Schedule: 937b2b998a1502e943e37d1b67f38c9e53429c7e
+  secp256k1_dash: 7fdbc23e3e8a27d522ec211b874d97fb091c2b23
+  SnapKit: fd22d10eb9aff484d79a8724eab922c1ddf89bcf
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  swift_qrcodejs: 0bacbfe321a99954c7b8e04c75562007ea4e4f7c
+
+PODFILE CHECKSUM: 03e242cae327cadf7dfbcef8c0cbc0560f43450c
+
+COCOAPODS: 1.6.1
